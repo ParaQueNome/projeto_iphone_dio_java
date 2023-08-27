@@ -6,7 +6,7 @@
 #### Classe NavegadorWeb
 #### Classe Iphone
 
-Na classe Telefone:
+Na classe Telefone: \n
   Metodos de chamada, discagem e correio de voz.
 Classe ReprodutorMusica:
   Metodos de tocar, pausar e selecionar música
