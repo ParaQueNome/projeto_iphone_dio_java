@@ -7,11 +7,11 @@
 #### Classe Iphone
 
 Na classe Telefone: <br>
-  Metodos de chamada, discagem e correio de voz.
-Classe ReprodutorMusica:
-  Metodos de tocar, pausar e selecionar música
-Classe NavegadorWeb:
-  Metodos de nova aba, fechar guia e atualizar pagina
+  Metodos de chamada, discagem e correio de voz.<br>
+Classe ReprodutorMusica:<br>
+  Metodos de tocar, pausar e selecionar música<br>
+Classe NavegadorWeb:<br>
+  Metodos de nova aba, fechar guia e atualizar pagina<br>
 
-A Classe Iphone foi a classe que se relacionou com as demais classes para formar o aparelho, por meio do relacionamento por agregação. 
-A execução do código principal está no App.java, o qual, possui a lógica de menu do Iphone
+A Classe Iphone foi a classe que se relacionou com as demais classes para formar o aparelho, por meio do relacionamento por agregação. <br>
+A execução do código principal está no App.java, o qual, possui a lógica de menu do Iphone<br>
