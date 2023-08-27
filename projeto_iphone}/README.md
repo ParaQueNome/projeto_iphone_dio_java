@@ -1,18 +1,17 @@
-## Getting Started
+## Projeto Iphone DIO Santander bootcamp
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+### Nesse projeto, criei 4 classes para a lógica do problema, sendo elas:
+#### Classe ReprodutorMusica
+#### Classe Telefone
+#### Classe NavegadorWeb
+#### Classe Iphone
 
-## Folder Structure
+Na classe Telefone:
+  Metodos de chamada, discagem e correio de voz.
+Classe ReprodutorMusica:
+  Metodos de tocar, pausar e selecionar música
+Classe NavegadorWeb:
+  Metodos de nova aba, fechar guia e atualizar pagina
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+A Classe Iphone foi a classe que se relacionou com as demais classes para formar o aparelho, por meio do relacionamento por agregação. 
+A execução do código principal está no App.java, o qual, possui a lógica de menu do Iphone
